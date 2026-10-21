@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/biological-nitrate-treatment-explainer/
 
+Repository: https://github.com/mizcausevic-dev/biological-nitrate-treatment-explainer
+
 ## What this is
 
 An interactive anatomy plate for Biological Nitrate Treatment. Play, scrub, or jump the five stages. The same frame always draws the same picture.
